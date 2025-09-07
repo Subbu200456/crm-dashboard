@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crm-dashboard/static/css/main.fd0f03dd.css",
+    "main.js": "/crm-dashboard/static/js/main.344f8069.js",
+    "index.html": "/crm-dashboard/index.html",
+    "main.fd0f03dd.css.map": "/crm-dashboard/static/css/main.fd0f03dd.css.map",
+    "main.344f8069.js.map": "/crm-dashboard/static/js/main.344f8069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0f03dd.css",
+    "static/js/main.344f8069.js"
+  ]
+}
