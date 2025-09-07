@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crm-dashboard/static/css/main.fd0f03dd.css",
-    "main.js": "/crm-dashboard/static/js/main.c213eeed.js",
+    "main.js": "/crm-dashboard/static/js/main.11dc7ba9.js",
     "index.html": "/crm-dashboard/index.html",
     "main.fd0f03dd.css.map": "/crm-dashboard/static/css/main.fd0f03dd.css.map",
-    "main.c213eeed.js.map": "/crm-dashboard/static/js/main.c213eeed.js.map"
+    "main.11dc7ba9.js.map": "/crm-dashboard/static/js/main.11dc7ba9.js.map"
   },
   "entrypoints": [
     "static/css/main.fd0f03dd.css",
-    "static/js/main.c213eeed.js"
+    "static/js/main.11dc7ba9.js"
   ]
 }
